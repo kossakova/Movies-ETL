@@ -17,5 +17,5 @@ Our ETL process consisted of three main steps:
 - Transformed it into one clean data set by cleaning them up and joining them together.
 We manipulated and cleaned the data before loading it in database, read our data into Pandas and removed null values, duplicates, irrelevant information ana entire columns that weren’t required for our project.
 
-- Finally, loaded clean the data set into a SQL database tables.
+- Finally, loaded clean data set into a SQL database tables.
 We used Pandas to_sql method and sqlAlchemy to insert the dataframe into a table within a database 
