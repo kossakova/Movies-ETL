@@ -3,6 +3,8 @@
 ## Overview of the project 
 We have been tasked with creating the datasets for the hackathon that being sponsored by popular video streaming website. Hackathon is an event where teams of analysts collaborate to work intensively on a project, using data to solve a problem. We needed to provide hackathon participants a nice clean data sets to work on to predict which low budget movies being released will become more popular. 
 
+Performing ETL on several movie datasets to predict popular films for a streaming service. Creating an ETL pipeline from raw data to a SQL database. Extracting data from disparate sources using Python. Cleaning and transforming data using Pandas. Using regex to parse data and to transform text into numbers. Loading data with PostgreSQL.
+
 ### Resources 
 - Python 
 - Pandas
